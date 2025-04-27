@@ -22,6 +22,8 @@
 
 ---
 
+
+
 <!-- ABOUT -->
 <div align="center">
 
@@ -29,6 +31,8 @@
 - 🌱 Learning **Swift**  
 - 🛠 Building with **Vue, React, Laravel, Spring Boot**  
 - 🎯 Focused on innovation and clean code
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejoIbarra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 </div>
 

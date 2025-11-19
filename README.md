@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Andres Alejandro Ibarra
-### Frontend Developer from Colombia 🇨🇴
+### FullStack Developer from Colombia 🇨🇴
 
 > *"Innovation distinguishes between a leader and a follower."* — Steve Jobs
 
